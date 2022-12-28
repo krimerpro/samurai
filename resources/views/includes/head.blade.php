@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="Tanuki Inu | ERC20">
-<meta name="keywords" content="tanuki, tanukiinu, racoondog, ethereum, erc20">
-<meta name="author" content="TanukiInu">
+<meta name="description" content="Dejitaru Kitsune | Ethereum">
+<meta name="keywords" content="erc20, dejitaru, kitsune, dejitarukitsune, ethereum, blockchain">
+<meta name="author" content="DejitaruKitsune">
 
-<title>Tanuki Inu | ERC20</title>
+<title>Dejitaru Kitsune | Ethereum</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->
@@ -25,3 +25,13 @@
 <link href="{{ asset('css/demo.min.css') }}" rel="stylesheet" type="text/css">
 
 <link href="{{ asset('css/template-3d-animation.css') }}" rel="stylesheet" type="text/css">
+
+<style>
+#myVideo {
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 100%;
+min-height: 100%;
+}
+</style>
