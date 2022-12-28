@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="IMORI PROJECT | ETHEREUM">
-<meta name="keywords" content="imori, project, ethereum, imoriproject, blockchain, cryptocurrency">
-<meta name="author" content="IMORI">
+<meta name="description" content="Tanuki Inu | ERC20">
+<meta name="keywords" content="tanuki, tanukiinu, racoondog, ethereum, erc20">
+<meta name="author" content="TanukiInu">
 
-<title>IMORI PROJECT | ETHEREUM</title>
+<title>Tanuki Inu | ERC20</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->

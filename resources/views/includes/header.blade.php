@@ -1,16 +1,16 @@
 <!-- Header Start-->
 <header class="page-header">
   <!-- Horizontal Menu Start-->
-  <nav class="main-menu static-top navbar-dark navbar navbar-expand-lg fixed-top mb-1" style="background:purple">
+  <nav class="main-menu static-top navbar-dark navbar navbar-expand-lg fixed-top mb-1" style="background:BROWN">
     <div class="container">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background:white;margin-left:20px">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" style="background:brown;margin-left:20px">
           <span class="navbar-toggler-icon"></span>
       </button>
 
       <?php
         if($agent->isMobile()){
       ?>
-            <h4 style="margin:auto">IMORI</h4>
+            <h4 style="margin:auto">TANUKI INU</h4>
       <?php
           }
       ?>
@@ -22,24 +22,15 @@
                 if(!$agent->isMobile()){
               ?>
                   <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                      <a class="nav-link" href="/" style="color:white;font-size:large">IMORI</a>
+                      <a class="nav-link" href="/" style="color:white;font-size:large">TANUKI INU</a>
                   </li>
               <?php } ?>
 
               <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
                   <a class="nav-link" href="#head-area" style="color:white;font-size:large">Home</a>
               </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#nfts" style="color:white;font-size:large">NFTs</a>
-              </li>
-              <li class="nav-item animated" data-animation="fadeInDown" data-animation-delay="1.1s">
-                  <a class="nav-link" href="#tokenomics" style="color:white;font-size:large">Tokenomics</a>
-              </li>
           </ul>
           <span id="slide-line"></span>
-          <!-- <form class="form-inline mt-2 mt-md-0 text-right" style="margin-left:auto">
-              <a class="btn btn-sm btn-gradient-purple btn-glow my-2 my-sm-0 animated" data-animation="fadeInDown" data-animation-delay="1.8s" href="#connect" style="background:#F6BE00">CONNECT</a>
-          </form> -->
         </div>
       </div>
     </div>
