@@ -27,7 +27,7 @@
                         <div class="mt-5 text-center">
                           <a href="https://medium.com/@YufeiEx/dejitaru-kitsune-c5b9aee536d5" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">MEDIUM</a>
                           <a href="https://t.me/DejitaruKitsuneErc20" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">OFFICIAL GROUP</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">CHART</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x2ab3bea2225623d270977f04b19d3f878f46a42b" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">CHART</a>
                         </div>
                     </div>
                 </div>
