@@ -32,6 +32,7 @@
 
                           <div class="copyright" style="color:white;margin-top:50px">Contract Address : 0xb88187398570050D73C204979F7Af21fb72cdF90</div>
                           <div class="copyright" style="color:white;margin-top:50px">Copyright &copy; 2022, SAMURAI - TEAM</div>
+                          <div class="copyright" style="color:white;margin-top:50px">Mail US on : samuraiethereum@outlook.com</div>
 
                         </div>
                     </div>
