@@ -2,7 +2,7 @@
 @section('content')
 
 <video autoplay muted loop id="myVideo">
-  <source src="{{ asset('images/wolf.mp4') }}" type="video/mp4">
+  <source src="{{ asset('images/samurai.mp4') }}" type="video/mp4">
 </video>
 
 <!-- //////////////////////////////////// CONTAINER ////////////////////////////////////-->
@@ -22,12 +22,15 @@
                          <img src="{{ asset('images/logo.png') }}" style="width:40%;height:40%;display: block;margin-left: auto;margin-right: auto">
                       </div>
 
-                        <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:white;margin-top:20px;font-weight:bold">The Divine Mythical Creatures of Japanese Folklore</h1>
-                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white;font-weight:bold">Dejitaru Kitsune</h5>
+                          <h1 class="best-template animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.5s" style="color:white;margin-top:20px;font-weight:bold">JAPANESE WARRIOR</h1>
+                        <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white;font-weight:bold">SAMURAI</h5>
                         <div class="mt-5 text-center">
-                          <a href="https://medium.com/@YufeiEx/dejitaru-kitsune-c5b9aee536d5" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">MEDIUM</a>
-                          <a href="https://t.me/DejitaruKitsuneErc20" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">OFFICIAL GROUP</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x2ab3bea2225623d270977f04b19d3f878f46a42b" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:white;color:black">CHART</a>
+                          <a href="" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">MEDIUM</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">CHART</a><br/>
+                          <a href="https://t.me/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TELEGRAM</a>
+                          <a href="https://twitter.com/SamuraiEthereum" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TWITTER</a><br/>
+
+                          <div class="copyright" style="color:white;margin-top:50px">Copyright &copy; 2022, SAMURAI - TEAM</div>
                         </div>
                     </div>
                 </div>

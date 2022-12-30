@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="Dejitaru Kitsune | Ethereum">
-<meta name="keywords" content="erc20, dejitaru, kitsune, dejitarukitsune, ethereum, blockchain">
-<meta name="author" content="DejitaruKitsune">
+<meta name="description" content="SAMURAI | JAPANESE WARRIOR">
+<meta name="keywords" content="erc20, samurai, japanesewarrior, ethereum, blockchain">
+<meta name="author" content="SAMURAI">
 
-<title>Dejitaru Kitsune | Ethereum</title>
+<title>SAMURAI | JAPANESE WARRIOR</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
 <!-- Fonts -->
