@@ -26,8 +26,8 @@
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white;font-weight:bold">SAMURAI</h5>
                         <div class="mt-5 text-center">
                           <a href="https://medium.com/@LiJunErc/samurai-%E6%AD%A6%E5%A3%AB-cf2d95bba54" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">MEDIUM</a>
-                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">CHART</a><br/>
-                          <a href="https://t.me/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TELEGRAM</a>
+                          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xb2690309cac36ef0ea00412350eaa74b50bc2311" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">CHART</a><br/>
+                          <a href="https://t.me/SamuraiEthereum" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TELEGRAM</a>
                           <a href="https://twitter.com/SamuraiEthereum" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TWITTER</a><br/>
 
                           <div class="copyright" style="color:white;margin-top:50px">Contract Address : 0xb88187398570050D73C204979F7Af21fb72cdF90</div>
