@@ -26,7 +26,7 @@
                         <h5 class="d-block white animated text-center" data-animation="fadeInUpShorter" data-animation-delay="1.6s" style="color:white;font-weight:bold">SAMURAI</h5>
                         <div class="mt-5 text-center">
                           <a href="https://medium.com/@SamuraiManCrypto/samurai-ethereum-%E6%AD%A6%E5%A3%AB-b775810f1c86" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">MEDIUM</a>
-                          <a href="https://poocoin.app/tokens/" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">CHART</a><br/>
+                          <a href="https://poocoin.app/tokens/0x79F88433714515A8147a157711Aa2FD72c325816" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">CHART</a><br/>
                           <a href="https://t.me/SamuraiEthereum" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TELEGRAM</a>
                           <a href="https://twitter.com/SamuraiEthereum" class="btn btn-lg btn-gradient-purple btn-glow mb-2 animated" target="_blank" data-animation="fadeInUpShorter" data-animation-delay="1.8s" style="margin-left: 25px;background:red;color:white">TWITTER</a><br/>
 
